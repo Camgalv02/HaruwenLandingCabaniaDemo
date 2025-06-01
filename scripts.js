@@ -454,10 +454,10 @@ function openGallery(type) {
         case 'piletas':
             sectionData = translation.poolSection;
             galleryImages = [
-                { src: "./img/pileta1.jpeg", title: sectionData.complex, description: sectionData.complexDesc },
+                { src: "./img/swimming-pool-389267_1280.jpg", title: sectionData.complex, description: sectionData.complexDesc },
                 { src: "./img/areaRelax.jpeg", title: sectionData.relaxArea, description: sectionData.relaxAreaDesc },
                 { src: "./img/piletaJuegos.jpeg", title: sectionData.kidsPool, description: sectionData.kidsPoolDesc },
-                { src: "./img/piletatobogan.jpeg", title: sectionData.slidePool, description: sectionData.slidePoolDesc }
+                { src: "./img/piletaTobogan.jpeg", title: sectionData.slidePool, description: sectionData.slidePoolDesc }
             ];
             break;
         case 'aereo':
