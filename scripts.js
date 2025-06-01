@@ -405,7 +405,7 @@ const galleryData = {
         { src: "./img/cabañaInterior3.jpeg", title: "Habitaciones", description: "Capacidad máxima: 5 personas" },
     ],
     piletas: [
-        { src: "img/swimming-pool-389267_1280.jpg", title: "Complejo de Piscinas al Aire Libre", description: "Diversión y relax para todos." },
+        { src: "./img/swimming-pool-389267_1280.jpg", title: "Complejo de Piscinas al Aire Libre", description: "Diversión y relax para todos." },
         { src: "./img/areaRelax.jpeg", title: "Área de Relax", description: "Descanso junto a la piscina" },
         { src: "./img/piletaJuegos.jpeg", title: "Piscina Infantil", description: "Especial para los más pequeños" },
         { src: "./img/piletaTobogan.jpeg", title: "Piscina con Tobogán", description: "Diversión asegurada para los más grandes." }
